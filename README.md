@@ -1,6 +1,8 @@
 ### Hi there 👋 
 
-I'm Meghan, I am currently participating in #30NitesOfCode:
+I'm Meghan, I am currently participating in #30NitesOfCode by @Codedex
+
+Pet Name: Chibi
 
   [Check out my progress!](https://www.codedex.io/@meghansm/30-nites-of-code)  
   ![@meghansm #30NitesOfCode](https://www.codedex.io/api/petStatus?user=meghansm)

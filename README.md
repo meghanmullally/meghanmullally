@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm Meghan
+
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@meghansm/30-nites-of-code)  
+  ![@meghansm #30NitesOfCode](https://www.codedex.io/api/petStatus?user=meghansm)
 
 <!--
 **meghanmullally/meghanmullally** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

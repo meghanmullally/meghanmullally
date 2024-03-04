@@ -5,7 +5,7 @@ an aspiring frontend developer from Seattle, WA.
 - 🔭 I’m currently working on [Pokemon](https://github.com/meghanmullally/pokemon).
 - 🌱 I’m currently learning **javaScript & react** to enhance my frontend skills.
 - 👩🏼‍💻 All of my projects are available on my [portfolio](https://meghanmullally.github.io/).
-- 👥 Recently participated in #30NitesOfCode by [@Codédex](https://github.com/codedex-io)
+- 👥 Participating in another #30NitesOfCode by [@Codédex](https://github.com/codedex-io)
 - ⚡ Fun facts: favorite animes include Inuyasha, Sailor Moon, and DBZ. fueled by matcha and a gaming enthusiast.
 
 <!--

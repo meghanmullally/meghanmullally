@@ -8,6 +8,12 @@ an aspiring frontend developer from Seattle, WA.
 - 👥 Participating in another #30NitesOfCode by [@Codédex](https://github.com/codedex-io)
 - ⚡ Fun facts: favorite animes include Inuyasha, Sailor Moon, and DBZ. fueled by matcha and a gaming enthusiast.
 
+### #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@meghansm/30-nites-of-code)  
+  My pet Peanut
+
+  ![@meghansm #30NitesOfCode](https://www.codedex.io/api/petStatus?user=meghansm)
+
 <!--
 **meghanmullally/meghanmullally** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

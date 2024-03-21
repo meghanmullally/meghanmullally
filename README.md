@@ -1,21 +1,46 @@
 # Hi 👋, I'm Meghan
 
-an aspiring frontend developer from Seattle, WA.
+An aspiring frontend developer from Seattle, WA.
 
-- 🔭 I’m currently working on [Pokemon](https://github.com/meghanmullally/pokemon).
-- 🌱 I’m currently learning **javaScript & react** to enhance my frontend skills.
+- 🔭 I’m currently working on [Pokemon](https://github.com/meghanmullally/pokemon) & [Weather App](https://github.com/meghanmullally/weather).
+- 🌱 I’m currently learning `Javascript` to enhance my frontend skills.
+- 👩🏼‍💻 All of my projects are available on my [portfolio](https://meghanmullally.github.io/).
+- 👥 Participating in another #30NitesOfCode by [@Codédex](https://github.com/codedex-io)  
+- ⚡ Fun facts: favorite animes include Inuyasha, Sailor Moon, and DBZ. Fueled by matcha and a gaming enthusiast 
+
+
+<div align="center">
+  <a href="https://github.com/JosManoel">
+    <img src="https://i.pinimg.com/originals/da/b7/f4/dab7f4374a6d584b83e5ff274b2f5dc2.gif" width="412px"/> 
+  </a>
+  <a href="https://github.com/JosManoel">
+    <img src="https://i.pinimg.com/originals/08/05/3f/08053f69eb1664dfe45d3b08257543b4.gif" width="412px"/>
+  </a>
+</div>
+
+----
+#### Codédex #30NitesOfCode Challenge
+![@meghansm #30NitesOfCode](https://www.codedex.io/api/petStatus?user=meghansm)
+![chibi](https://www.codedex.io/images/code-nights/evolved-neutral-duck.gif)
+
+
+Current Challenge: [Peanut](https://www.codedex.io/@meghansm/30-nites-of-code)  
+Past Challenge: [Chibi](https://www.codedex.io/@meghansm/30-nites-of-code?pet=season-one)
+
+---
+#### Github Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meghanmullally&layout=compact)
+<!--
+
+An aspiring frontend developer from Seattle, WA.
+
+- 🔭 I’m currently working on [Pokemon](https://github.com/meghanmullally/pokemon) & [Weather App](https://github.com/meghanmullally/weather).
+
+- 🌱 I’m currently learning `Javascript` to enhance my frontend skills.
 - 👩🏼‍💻 All of my projects are available on my [portfolio](https://meghanmullally.github.io/).
 - 👥 Participating in another #30NitesOfCode by [@Codédex](https://github.com/codedex-io)
-- ⚡ Fun facts: favorite animes include Inuyasha, Sailor Moon, and DBZ. fueled by matcha and a gaming enthusiast.
-
-### #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@meghansm/30-nites-of-code)  
-  My pet Peanut
-
-  ![@meghansm #30NitesOfCode](https://www.codedex.io/api/petStatus?user=meghansm)
-
-<!--
-**meghanmullally/meghanmullally** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ⚡ Fun facts: favorite animes include Inuyasha, Sailor Moon, and DBZ. Fueled by matcha and a gaming enthusiast
+<img src="https://i.pinimg.com/originals/da/b7/f4/dab7f4374a6d584b83e5ff274b2f5dc2.gif" width="200">
 
 Here are some ideas to get you started:
 
@@ -27,11 +52,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-Pet Name: Chibi
-
-  [Check out my progress!](https://www.codedex.io/@meghansm/30-nites-of-code)  
-  ![@meghansm #30NitesOfCode](https://www.codedex.io/api/petStatus?user=meghansm)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -46,5 +66,12 @@ Pet Name: Chibi
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /></a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /></a>
 </p>
+
+![inuyasha](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejA0YnQwMjdsajl3bTAzMTM4aDA1a2NpMHp0NGplYjQ1emFmN2hrbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QNp9V9qZd6pzy/giphy.gif)
+
+![goku](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXRncTgwYzBzbWN6YXlsdjVvM211d3R5dHVwMHowZ3hteHBjM2RqNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rArPDIllQwWly/giphy.gif)
+
+![sailormoon](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXU3aGlvNzdyMHBiMDJ3b2hydTJxdmRsdzg2czJvY24wNmxxbzM5diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KQVODI8hWhvva/giphy.gif)
+
 
 -->

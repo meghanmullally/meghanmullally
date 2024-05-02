@@ -24,8 +24,7 @@ An aspiring frontend developer from Seattle, WA.
 ![chibi](https://www.codedex.io/images/code-nights/evolved-neutral-duck.gif)
 
 
-Current Challenge: [Peanut](https://www.codedex.io/@meghansm/30-nites-of-code)  
-Past Challenge: [Chibi](https://www.codedex.io/@meghansm/30-nites-of-code?pet=season-one)
+Past Challenges: [Peanut](https://www.codedex.io/@meghansm/30-nites-of-code?pet=season-two)  [Chibi](https://www.codedex.io/@meghansm/30-nites-of-code?pet=season-one)
 
 ---
 #### Github Stats

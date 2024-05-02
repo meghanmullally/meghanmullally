@@ -4,8 +4,7 @@ An aspiring frontend developer from Seattle, WA.
 
 - 🔭 I’m currently working on [Pokemon](https://github.com/meghanmullally/pokemon) & [Weather App](https://github.com/meghanmullally/weather).
 - 🌱 I’m currently learning `Javascript` to enhance my frontend skills.
-- 👩🏼‍💻 All of my projects are available on my [portfolio](https://meghanmullally.github.io/).
-- 👥 Participating in another #30NitesOfCode by [@Codédex](https://github.com/codedex-io)  
+- 👩🏼‍💻 All of my projects are available on my [portfolio](https://meghanmullally.github.io/)
 - ⚡ Fun facts: favorite animes include Inuyasha, Sailor Moon, and DBZ. Fueled by matcha and a gaming enthusiast 
 
 

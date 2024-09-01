@@ -20,10 +20,13 @@ An aspiring frontend developer from Seattle, WA.
 ----
 #### Codédex #30NitesOfCode Challenge
 ![@meghansm #30NitesOfCode](https://www.codedex.io/api/petStatus?user=meghansm)
+![Peanut](https://www.codedex.io/images/code-nights/evolved-happy-dragon.gif)
 ![chibi](https://www.codedex.io/images/code-nights/evolved-neutral-duck.gif)
 
 
-Past Challenges: [Peanut](https://www.codedex.io/@meghansm/30-nites-of-code?pet=season-two)  [Chibi](https://www.codedex.io/@meghansm/30-nites-of-code?pet=season-one)
+Current Challenge: [Venom](https://www.codedex.io/@meghansm/30-nites-of-code?pet=2eUtfNeNOXyfvgz9G0CM)
+
+Past Challenges: [Peanut](https://www.codedex.io/@meghansm/30-nites-of-code?pet=paIyghTZ9O49qR6jDPvE)  [Chibi](https://www.codedex.io/@meghansm/30-nites-of-code?pet=season-one)
 
 ---
 #### Github Stats

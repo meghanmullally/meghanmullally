@@ -17,7 +17,20 @@ An aspiring frontend developer from Seattle, WA.
   </a>
 </div>
 
+---
+
+### Github Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meghanmullally&layout=compact)
+
+### Languages and Tools
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+
 ----
+
 #### Codédex #30NitesOfCode Challenge
 ![@meghansm #30NitesOfCode](https://www.codedex.io/api/petStatus?user=meghansm)
 ![Peanut](https://www.codedex.io/images/code-nights/evolved-happy-dragon.gif)
@@ -28,9 +41,6 @@ Current Challenge: [Venom](https://www.codedex.io/@meghansm/30-nites-of-code?pet
 
 Past Challenges: [Peanut](https://www.codedex.io/@meghansm/30-nites-of-code?pet=paIyghTZ9O49qR6jDPvE)  [Chibi](https://www.codedex.io/@meghansm/30-nites-of-code?pet=season-one)
 
----
-#### Github Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meghanmullally&layout=compact)
 <!--
 
 An aspiring frontend developer from Seattle, WA.

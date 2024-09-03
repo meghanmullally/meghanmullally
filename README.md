@@ -4,7 +4,7 @@ An aspiring frontend developer from Seattle, WA.
 
 - 🔭 I’m currently working on [Pokemon](https://github.com/meghanmullally/pokemon)
 - 🌱 I’m currently learning `Javascript` to enhance my frontend skills.
-- 👩🏼‍💻 All of my projects are available on my [portfolio](https://meghanmullally.github.io/)
+- 👩🏼‍💻 All of my projects are available on my [portfolio][(https://meghanmullally.github.io/](https://meghanmullally-portfolio.netlify.app/))
 - ⚡ Fun facts: favorite animes include Inuyasha, Sailor Moon, and DBZ. Fueled by matcha and a gaming enthusiast 
 
 
